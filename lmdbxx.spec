@@ -1,7 +1,7 @@
 	
 Name: lmdbxx
 Version: 1.0.0
-Release: 1
+Release: 2
 License: Public Domain
 Summary: C++ wrapper for the LMDB embedded B+ tree database library
 URL: https://github.com/hoytech/lmdbxx
